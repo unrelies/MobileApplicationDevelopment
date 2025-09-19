@@ -3,3 +3,45 @@ The purpose of this website is to share my personal favorites in entertainment,
 The site is designed to provide visitors with an introduction to my interests,
  a deeper look at my favorite story arcs and songs,
  and a way to contact me if they would like to share their own favorites or give feedback.
+
+
+Home (module1homepage.html)
+
+-> Favorites (favorites.html)
+
+-->One Piece story arcs
+-->Favorite music albums and songs
+
+----->Contact (contact.html)
+-------->Contact information and explanation of why the site was made
+
+------------> Feedback (feedback.html)
+----------------> Feedback form for visitors to share thoughts and favorites
+
+Homepage (module1homepage.html)
+Favorites Link -> Takes the user to the Favorites page, where they can read about favorite arcs and music.
+Contact Link -> Takes the user to the Contact page to learn why the site was made and how to connect.
+Images (One Piece, Lil Uzi Vert, Playboi Carti) -> Decorative, help visually show what the page is about.
+Favorites Page (favorites.html)
+Story Arc Sections -> Users can read about the author’s favorite One Piece arcs.
+Music Sections -> Users can see favorite songs and albums from Lil Uzi Vert and Playboi Carti.
+Contact Page (contact.html)
+Contact Link  -> Provides a way for users to reach out (email, message, etc.).
+Feedback Page (feedback.html): Allows users to provide their own input, opinions, or favorites through a feedback form.
+
+Homepage (module1homepage.html)
+Favorites Link -> Opens the Favorites page with story arcs and music details.
+Contact Link -> Opens the Contact page with explanation and contact info.
+Feedback Link -> Opens the Feedback page so visitors can share their own thoughts.
+Images (One Piece, Lil Uzi Vert, Playboi Carti) -> Decorative images to showcase site topics.
+Favorites Page (favorites.html)
+Story Arc Sections -> Display text or images describing favorite One Piece arcs.
+Music Sections -> Show lists of albums or songs by Lil Uzi Vert and Playboi Carti.
+Contact Page (contact.html)
+Contact Info Link  -> Provides a way for users to reach out.
+Explanation Section -> Tells why the site was made and invites visitors to share interests.
+Feedback Page (feedback.html)
+Feedback Form (text box, buttons) -> Users can type in their thoughts, comments, or favorites and submit them.
+Submit Button -> Sends user input (depending on setup: may display confirmation or save results).
+
+https://sotd.us/ravenbeaulieu/module1homepage.html
